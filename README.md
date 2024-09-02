@@ -15,15 +15,15 @@ This is a simple shooting arcade-style video game created with Pygame. In Alien 
 ## Project Structure
 The project is made with the Pygame library and is organized into several classes and modules:
 
--**AlienInvasion:** Handles the main game loop.
--**Settings:** A class to store all settings for Alien Invasion.
--**GameStats:** Track statistics for Alien Invasion.
--**Scoreboard:** A class to report scoring information.
--**Button:** A class creating play button.
--**game_functions.py:** A module containing the main functionality of the game.
--**Ship:** Initialize a ship and set its position.
--**Bullet:** A class to manage bullets fired from the ship.
--**Alien:** A class to represent a single alien in the fleet.
+- **AlienInvasion:** Handles the main game loop.
+- **Settings:** A class to store all settings for Alien Invasion.
+- **GameStats:** Track statistics for Alien Invasion.
+- **Scoreboard:** A class to report scoring information.
+- **Button:** A class creating play button.
+- **game_functions.py:** A module containing the main functionality of the game.
+- **Ship:** Initialize a ship and set its position.
+- **Bullet:** A class to manage bullets fired from the ship.
+- **Alien:** A class to represent a single alien in the fleet.
 
 ## How to Run
 
