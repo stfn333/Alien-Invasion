@@ -27,8 +27,30 @@ The project is made with the Pygame library and is organized into several classe
 
 ## How to Run
 
+### Prerequisites
+- Python 3.12
+- Pygame (for visualization)
+
+You can install Pygame using pip:
+```bash
+pip install pygame
+```
+### Cloning the Repository
+```bash
+git clone https://github.com/stfn333/Alien-Invasion.git
+cd Conways-Game-Of-Life
+```
+### Run
+Once you have the repository cloned and dependencies installed, you can run the game by executing the main Python script:
+```bash
+python alien_invasion.py
+```
+
 ## How to Use
-
+- Click 'Play' to start or just press 'P'.
+- Q: Terminate game
+- Left/ Right arrow keys: Move the spaceship to the left or right.
+- Space bar: Shoot bullets.
+  
 ## License
-
-
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this code as you see fit.
